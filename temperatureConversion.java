@@ -74,11 +74,10 @@ public class temperatureConversionFrame extends Frame implements ActionListener{
         add(l4);
         add(t4);
 
-        setTitle("Temperature Conversion in Applet-Java");
+        setTitle("Temperature Conversion in Java using Frame Class");
         setSize(600,600);
         setLayout(null);
         setVisible(true);
-
         }
 
     @Override
