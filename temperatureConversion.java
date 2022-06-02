@@ -53,7 +53,6 @@ public class temperatureConversionFrame extends Frame implements ActionListener{
         t4.setBounds(350,470,190,30);
         t4.setEditable(false);
 
-
         b1.addActionListener(this);
         b2.addActionListener(this);
         b3.addActionListener(this);
